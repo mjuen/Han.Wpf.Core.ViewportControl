@@ -89,11 +89,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Han.WPF.ViewportControl\Han.Wpf.ViewportControl.csproj">
-      <Project>{e6847200-1939-48df-ad61-694a56b8fd2e}</Project>
-      <Name>Han.Wpf.ViewportControl</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
