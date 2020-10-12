@@ -3,6 +3,19 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
+    <LangVersion>8.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Han.Wpf.Core.ViewportControl</PackageId>
+    <Authors>Adam Hancock, Simon Mauracher, Marcel Juen</Authors>
+    <Company />
+    <Description>A WPF Viewport Control that provides pan and zoom functionality based on .NET Core 3.1. This is a fork of Han.Wpf.ViewportControl by Adam Hancock</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/mjuen/Han.Wpf.Core.ViewportControl</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mjuen/Han.Wpf.Core.ViewportControl</RepositoryUrl>
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
