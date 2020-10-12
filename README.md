@@ -1,4 +1,4 @@
-# Han.Wpf.ViewportControl
+# Han.Wpf.Core.ViewportControl
 A Wpf Viewport Control that provides pan and zoom functionality based on .NET Core 3.1
 
 This is a fork of ![Han.Wpf.ViewportControl](https://github.com/ahancock1/Han.Wpf.ViewportControl)
