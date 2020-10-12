@@ -5,7 +5,7 @@ This is a fork of ![Han.Wpf.ViewportControl](https://github.com/ahancock1/Han.Wp
 
 ## Installation
 
-    Install-Package Han.Wpf.ViewportControl
+    Install-Package Han.Wpf.Core.ViewportControl
     
 ## Documentation
 
@@ -14,7 +14,7 @@ Include in App.xaml
 
     <Application.Resources>
 
-        <ResourceDictionary Source="pack://application:,,,/Han.Wpf.ViewportControl;component/Themes/Generic.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/Han.Wpf.Core.ViewportControl;component/Themes/Generic.xaml" />
 
     </Application.Resources>
 
